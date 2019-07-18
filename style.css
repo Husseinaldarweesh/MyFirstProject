@@ -94,6 +94,13 @@ body{
 	display: block;
 	transform: translateY(8px);
 }
+.titlee{
+	color: #5f1782;
+}
+.title{
+	color: #5f1782;
+	font-weight: bold;
+}
 #services .btn-primary{
 	box-shadow: none;
 	padding: 8px 25px;
@@ -112,6 +119,7 @@ body{
 	font-size: 40px;
 	font-weight: 600;
 	margin-top: 8%;
+	color: #5f1782;
 }
 #about-us ul li{
 	margin: 10px 0;
@@ -201,4 +209,15 @@ hr{
 	margin-bottom: 0;
 	padding-bottom: 20px;
 	text-align: center;
+}
+.titlee{
+	color: #5f1782;
+	font-family: cursive;
+	font-weight: bold;
+}
+.name{
+	color: #5f1782;
+	font-weight: bold;
+	font-family: cursive;
+	font-size: 15px;
 }

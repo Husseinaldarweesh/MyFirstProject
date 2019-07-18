@@ -212,8 +212,9 @@ hr{
 }
 .titlee{
 	color: #5f1782;
-	font-family: cursive;
+	font-family: monospace;
 	font-weight: bold;
+	font-size: 30px;
 }
 .name{
 	color: #5f1782;
